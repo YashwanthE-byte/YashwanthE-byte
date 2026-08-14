@@ -3,10 +3,8 @@
 ### 💻 Java | DSA | Backend | Full-Stack Development
 
 ## 🌟 About Me
-###
-🎓 Computer Science Engineering Student  
-☕ Java Developer | 🧠 DSA Enthusiast | 🌐 Full-Stack Developer  
-🚀 Currently learning Spring Boot and strengthening problem-solving skills.
+
+###🎓 Computer Science Engineering Student  Java Developer | DSA Enthusiast | Full-Stack Developer  🚀 Currently learning Spring Boot and strengthening problem-solving skills.
 ---
 
 ## 🌐 Socials
