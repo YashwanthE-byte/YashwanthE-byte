@@ -1,24 +1,10 @@
 # 👋 Hi, I'm Yashwanth E
 
 ### 💻 Java | DSA | Backend | Full-Stack Development
-
+## 🌟 About Me
 🎓 Computer Science Engineering Student  
 ☕ Java Developer | 🧠 DSA Enthusiast | 🌐 Full-Stack Developer  
 🚀 Currently learning Spring Boot and strengthening problem-solving skills.
-
----
-
-## 🌟 About Me
-
-- 🎓 CSE Student
-- ☕ Java & Data Structures
-- 🧠 LeetCode Problem Solving
-- 🌐 Full-Stack Web Development
-- 🌱 Spring Boot & Backend Development
-- 🗄️ MySQL & MongoDB
-- 🔧 Git & GitHub
-- 🚀 Aspiring Software Developer
-
 ---
 
 ## 🌐 Socials
@@ -72,13 +58,6 @@ Full-stack emergency response platform.
 
 **Tech:** React • Node.js • Express • MongoDB • Socket.IO • JWT
 
-- 🚨 One-tap geolocation SOS
-- 🚑 Real-time ambulance tracking
-- 🏥 Hospital bed & ICU capacity
-- 🔐 Role-based authentication
-- ⚡ Real-time incident updates
-- 🤖 AI-assisted first-aid support
-
 ---
 
 ### 🧠 DSA-Java
@@ -97,10 +76,6 @@ Arrays • Strings • Hashing • Two Pointers • Sliding Window • Sorting �
 
 Thermoelectric energy harvesting project based on the Seebeck Effect.
 
-- 🔥 Waste heat → electrical energy
-- ⚡ Thermoelectric Generator
-- 📊 Temperature vs Voltage analysis
-- 💡 LED power generation
 
 ---
 
