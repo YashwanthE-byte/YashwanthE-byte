@@ -29,11 +29,10 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 ![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashwanthE-byte&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashwanthE-byte&layout=compact&theme=tokyonight)
 
 ---
 
