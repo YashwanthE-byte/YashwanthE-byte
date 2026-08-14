@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Yashwanth E
 
 ### 💻 Java | DSA | Backend | Full-Stack Development
+
 ## 🌟 About Me
+###
 🎓 Computer Science Engineering Student  
 ☕ Java Developer | 🧠 DSA Enthusiast | 🌐 Full-Stack Developer  
 🚀 Currently learning Spring Boot and strengthening problem-solving skills.
@@ -49,53 +51,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=YashwanthE-byte&theme=tokyonight)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🚨 Smart Emergency Response System — RESQUE AI
-
-Full-stack emergency response platform.
-
-**Tech:** React • Node.js • Express • MongoDB • Socket.IO • JWT
-
----
-
-### 🧠 DSA-Java
-
-My Data Structures & Algorithms solutions using Java.
-
-**Platforms:**
-LeetCode • HackerRank • GeeksforGeeks
-
-**Topics:**
-Arrays • Strings • Hashing • Two Pointers • Sliding Window • Sorting • Binary Search • Linked List • Trees • Graphs • Dynamic Programming
-
----
-
-### ⚡ Strom Aura
-
-Thermoelectric energy harvesting project based on the Seebeck Effect.
-
-
----
-
-### 🌦️ Thunderfrost Weather App
-
-Weather visualization application with an interactive interface.
-
-**Tech:** JavaScript • HTML • CSS • Python
-
----
-
-## 🎯 Currently Learning
-
-☕ Java  
-🧠 Data Structures & Algorithms  
-🌱 Spring Boot  
-⚙️ Backend Development  
-🗄️ SQL & MongoDB  
-🌐 Full-Stack Development
-
----
-
-### 🚀 Code • Learn • Build • Repeat
