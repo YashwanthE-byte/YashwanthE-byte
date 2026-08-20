@@ -37,8 +37,3 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YashwanthE-byte&theme=tokyonight)
-
----
